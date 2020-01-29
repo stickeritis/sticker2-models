@@ -3,3 +3,8 @@ nl-ud-large-20200128:
   lang: nl
   tagset: ud
   sha256: 5739433f5d59c7373cb23cd5af5762d362a84ec1ec5e3cc90bfa9e347c171a51
+nl-ud-medium-20200129:
+  filename: nl-ud-medium-20200129.tar.gz
+  lang: nl
+  tagset: ud
+  sha256: 17f28f640c1c9d22cffff98054ef45a0a99995bff5f1246db54b5dad441cde22
