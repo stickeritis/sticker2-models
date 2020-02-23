@@ -22,3 +22,9 @@ nl-ud-large-20200220:
   tagset: ud
   sha256: 18cd0e22005cf26b7779cecb47c8ad59ecdff2a60277b7fe463198c0e0e4182a
   sticker2_version: >= 0.2.0
+de-ud-large-20200222:
+  filename: de-ud-large-20200222
+  lang: de
+  tagset: ud
+  sha256: 2d423462d0eed17fb29b76bf679cec437717b02191abae8d4fc659b5bbb6f4b3
+  sticker2_version: >= 0.2.0
