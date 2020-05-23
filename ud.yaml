@@ -40,6 +40,12 @@ nl-ud-huge-20200310:
   tagset: ud
   sha256: 9bfd653fb6f22874a71b15d1e5dc2125046c773938d2bc8666cb55ce87d708be
   sticker2_version: >= 0.2.0 && < 0.3.0
+de-ud-large-20200523:
+  filename: de-ud-large-20200523.tar.gz
+  lang: de
+  tagset: ud
+  sha256: 34a1ba3c03b50bd784e7fdae55cb0afbbf325fb7d08246cfe3a7627d0cf366e0
+  sticker2_version: >= 0.3.0
 nl-ud-large-20200420:
   filename: nl-ud-large-20200420.tar.gz
   lang: nl
