@@ -45,28 +45,28 @@ de-ud-huge-20200709:
   lang: de
   tagset: ud
   sha256: fd9c769a1962497acbc8db9bd159bcb2b674fa931a7612cf0cba032cbf4b38a6
-  sticker2_version: >= 0.3.0
+  sticker2_version: >= 0.3.0 && < 0.4.0
 de-ud-large-20200523:
   filename: de-ud-large-20200523.tar.gz
   lang: de
   tagset: ud
   sha256: 34a1ba3c03b50bd784e7fdae55cb0afbbf325fb7d08246cfe3a7627d0cf366e0
-  sticker2_version: >= 0.3.0
+  sticker2_version: >= 0.3.0 && < 0.4.0
 de-ud-large-20200710:
   filename: de-ud-large-20200710.tar.gz
   lang: de
   tagset: ud
   sha256: cde411e3faae34fb92a90d31912f94a2ad71a6fc4a120aa9b07e723c18260e9b
-  sticker2_version: >= 0.3.0
+  sticker2_version: >= 0.3.0 && < 0.4.0
 nl-ud-large-20200420:
   filename: nl-ud-large-20200420.tar.gz
   lang: nl
   tagset: ud
   sha256: e727c9f1121499715f291d5c9d293b04032a8e7470d2bb9da6a027ee9895ca3f
-  sticker2_version: >= 0.3.0
+  sticker2_version: >= 0.3.0 && < 0.4.0
 nl-ud-medium-20200430:
   filename: nl-ud-medium-20200430.tar.gz
   lang: nl
   tagset: ud
   sha256: ff45a1ee2297f8848dac81c02cfdc3e0b8332bddd8d9e5108f7e10366bd5c27c
-  sticker2_version: >= 0.3.0
+  sticker2_version: >= 0.3.0 && < 0.4.0
